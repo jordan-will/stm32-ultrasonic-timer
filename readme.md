@@ -2,6 +2,13 @@
 Ultrasonic distance measurement system implemented on STM32 using TIM14 as a 1µs free-running time base.  
 Distance is calculated from pulse width measurement and displayed through an 8-LED bar and RGB status indicator.
 
+## Demo
+
+<img src="demo.gif" alt="Project Demo" width="600" height="400">
+
+## Hardware in Wokwi
+
+See the interactive simulation here: [Wokwi Project](https://wokwi.com/projects/456407195657967617)
 
 ## Overview
 
